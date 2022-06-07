@@ -4,7 +4,7 @@ NuRoad Construction is a fictitious startup company whose executives want to fin
 
 # Objectives
 
-The executives at the startup company expect data-driven answers and suggestions for the following questions:
+The executives at NuRoad expect data-driven answers and suggestions for the following questions:
   - Which state(s) have the most road construction?
   - Which state(s) have the greatest hours/job ratio?
   - Is weather a factor in construction time?
